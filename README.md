@@ -31,6 +31,7 @@ Run main.py with uvicorn main:app --host 127.0.0.1 --port 8888, then test via 't
 Do not shutdown main.py for next question as the snapshot functionality use the endpoints.
 
 Q2: 
+
 <img width="1613" height="120" alt="image" src="https://github.com/user-attachments/assets/7944d840-39e3-4a45-83c9-b142194d7ff8" />
 
 Answer is in Cron scheduler folder which contains:
@@ -42,6 +43,7 @@ Run 'crontimerset.py' and wait, it will do automatic snapshots as scheduled. CSV
 Run 'removecron.py' when done testing so your computer won't run the scripts automatically afterwards.
 
 Q3:
+
 <img width="540" height="295" alt="Screenshot from 2026-09-23 16-48-22" src="https://github.com/user-attachments/assets/39c85d52-b6c6-4375-9ed0-a29d6e352821" />
 
 For testing yourself:
