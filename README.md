@@ -2,7 +2,7 @@
 Technical test for Dev
 Language used PYTHON
 # English Guide
-###1.STEP BY STEP RUNNING:
+1.STEP BY STEP RUNNING:
 RUN FOLLOWING COMMANDS FOR REQUIREMENTS/DEPENDENCY
 pip install fastapi
 pip install python-crontab
@@ -19,7 +19,7 @@ ARCHITECTURE:
 <img width="717" height="427" alt="image" src="https://github.com/user-attachments/assets/57107a02-936f-467a-858a-b50b517b3f0c" />
 
 
-###2.ANSWER TO QUESTIONS:
+2.ANSWER TO QUESTIONS:
 Q1:
 Answer is in main.py, which is the API that handles POST&GET methods, will open endpoint at http://localhost:8888/.
 Methods exposed: 
